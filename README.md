@@ -1,6 +1,6 @@
-# files
-
 # collectd
+
+## CentOS 7
 
 https://devops.profitbricks.com/tutorials/how-to-install-and-configure-collectd-and-collectd-web-to-monitor-a-centos-7-server/
 ```
